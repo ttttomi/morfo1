@@ -1,6 +1,6 @@
 # Blender 4.5.3 LTS
 # www.blender.org
-mtllib Untitadsadsasddsa.mtl
+mtllib MODELO_LAMBERT.mtl
 o DISCONTINUIDAD_FINAL
 v -9.000000 6.000000 5.000000
 v -5.000000 5.000000 5.000000
